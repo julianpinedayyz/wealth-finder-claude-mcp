@@ -1,0 +1,26 @@
+[
+  {
+    "line_item_id": "li_rogers_phone_2026_02_001",
+    "bill_id": "bill_rogers_phone_2026_02",
+    "description": "Monthly Plan — Infinite Share 50GB",
+    "amount": 89,
+    "date_from": "2026-02-01",
+    "date_to": "2026-02-28"
+  },
+  {
+    "line_item_id": "li_rogers_phone_2026_02_002",
+    "bill_id": "bill_rogers_phone_2026_02",
+    "description": "International Data Roaming — USA (Feb 14–15)",
+    "amount": 76.43,
+    "date_from": "2026-02-14",
+    "date_to": "2026-02-15"
+  },
+  {
+    "line_item_id": "li_rogers_phone_2026_02_003",
+    "bill_id": "bill_rogers_phone_2026_02",
+    "description": "Roaming Day Pass activation fee",
+    "amount": 22,
+    "date_from": "2026-02-14",
+    "date_to": "2026-02-14"
+  }
+]

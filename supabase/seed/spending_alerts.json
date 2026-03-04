@@ -1,0 +1,9 @@
+[
+  {
+    "category": "dining",
+    "category_group": "FOOD",
+    "monthly_limit": 350,
+    "alert_threshold_pct": 80,
+    "active": true
+  }
+]

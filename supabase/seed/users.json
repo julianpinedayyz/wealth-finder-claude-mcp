@@ -1,0 +1,23 @@
+[
+  {
+    "user_id": "usr_marco_reyes",
+    "full_name": "Marco Reyes",
+    "email": "marco.reyes@example.com",
+    "age": 31,
+    "city": "Toronto",
+    "province": "ON",
+    "occupation": "Senior Marketing Research Analyst",
+    "employer": "Northgate Insights Inc.",
+    "gross_annual_salary": 88000,
+    "net_biweekly": 2847.33,
+    "risk_profile": "moderate",
+    "onboarded_date": "2023-08-15",
+    "metadata": {
+      "neighbourhood": "Liberty Village",
+      "housing_status": "owner",
+      "partner_status": "relationship_separate_finances",
+      "tfsa_contribution_room": 47000,
+      "tfsa_opened": false
+    }
+  }
+]

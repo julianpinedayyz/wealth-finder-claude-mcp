@@ -1,0 +1,20 @@
+{
+  "_comment": "Merge this mcpServers entry into your Claude Desktop config.",
+  "mcpServers": {
+    "wealth-finder-mcp": {
+      "command": "npx",
+      "args": [
+        "ts-node",
+        "--project",
+        "/ABSOLUTE/PATH/TO/wealth-finder-mcp/tsconfig.json",
+        "/ABSOLUTE/PATH/TO/wealth-finder-mcp/src/mcp/server.ts"
+      ],
+      "env": {
+        "SUPABASE_URL": "https://<your-project-ref>.supabase.co",
+        "SUPABASE_ANON_KEY": "<your-anon-key>",
+        "MCP_USER_ID": "usr_marco_reyes",
+        "MCP_LOG_FILE": "logs/mcp-server.log"
+      }
+    }
+  }
+}

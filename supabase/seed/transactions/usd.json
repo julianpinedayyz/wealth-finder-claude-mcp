@@ -1,0 +1,54 @@
+[
+  {
+    "transaction_id": "txn_usd_2025_05_001",
+    "account_id": "acc_usd_001",
+    "user_id": "usr_marco_reyes",
+    "date": "2025-05-12",
+    "amount": -17.99,
+    "direction": "debit",
+    "merchant": "Netflix US",
+    "category": "streaming",
+    "category_group": "SUBSCRIPTIONS",
+    "description": "Netflix US subscription",
+    "balance_after": 4.51
+  },
+  {
+    "transaction_id": "txn_usd_2025_07_001",
+    "account_id": "acc_usd_001",
+    "user_id": "usr_marco_reyes",
+    "date": "2025-07-15",
+    "amount": 300.0,
+    "direction": "credit",
+    "merchant": "Transfer In - USD",
+    "category": "transfer_in",
+    "category_group": "INCOME",
+    "description": "Transfer from CAD account for travel",
+    "balance_after": 304.51
+  },
+  {
+    "transaction_id": "txn_usd_2025_09_001",
+    "account_id": "acc_usd_001",
+    "user_id": "usr_marco_reyes",
+    "date": "2025-09-03",
+    "amount": -11.99,
+    "direction": "debit",
+    "merchant": "Humble Bundle",
+    "category": "games",
+    "category_group": "ENTERTAINMENT",
+    "description": "Humble Bundle monthly",
+    "balance_after": 292.52
+  },
+  {
+    "transaction_id": "txn_usd_2025_12_001",
+    "account_id": "acc_usd_001",
+    "user_id": "usr_marco_reyes",
+    "date": "2025-12-19",
+    "amount": -7.52,
+    "direction": "debit",
+    "merchant": "Steam",
+    "category": "games",
+    "category_group": "ENTERTAINMENT",
+    "description": "Steam winter sale purchase",
+    "balance_after": 285.0
+  }
+]
