@@ -1,6 +1,6 @@
 {
   "name": "wealth-finder-mcp",
-  "version": "0.1.0",
+  "version": "0.5.1",
   "description": "MCP server demo for personal finance workflows backed by Supabase",
   "private": true,
   "scripts": {
